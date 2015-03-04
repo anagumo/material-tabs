@@ -11,8 +11,8 @@
         android:layout_height="wrap_content"
         android:layout_width="match_parent"/>
 
-    <com.android4devs.slidingtab.SlidingTabLayout
-        android:id="@+id/tabs"
+    <com.example.ariana.slidingtabs.iosched.SlidingTabLayout
+        android:id="@+id/my_awesome_tabs"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:elevation="2dp"
@@ -20,7 +20,7 @@
 
     <android.support.v4.view.ViewPager
         xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/pager"
+        android:id="@+id/my_awesome_pager"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"/>
