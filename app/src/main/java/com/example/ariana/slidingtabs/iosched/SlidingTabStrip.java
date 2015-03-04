@@ -1,4 +1,4 @@
-package com.example.ariana.slidingtabs.IOsched;
+package com.example.ariana.slidingtabs.iosched;
 
 /*
  * Copyright 2014 Google Inc. All rights reserved.
