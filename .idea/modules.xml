@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SlidingTabs.iml" filepath="$PROJECT_DIR$/SlidingTabs.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material_tabs.iml" filepath="$PROJECT_DIR$/material_tabs.iml" />
     </modules>
   </component>
 </project>
-
